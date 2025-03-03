@@ -77,13 +77,30 @@ Now as till now we have identified the problematic columns lets proceed with cle
 
 ![alt text](images/image%207.png)
 
-##### INsights of the AGE: 
+##### Insights of the AGE: 
 1. **Peak at 30 Years:** 
     - We can see the highest bar is around the **30 years**. Which aligns with the **mean (29.7)** used for missing data imputations.
     - THe large spike here is showing a lage number of missing values were replaced with the mean. 
 2. **Distribution Shape:**
     - The distribution shape is suggesting that as the a large number of passengers were between (**20-40**) years. With a smaller count for (**0-10**) years, and (**60+**) years. 
 
+##### Cabin: 
+
+So, our cabin columns has categorical data which has cabin numbers in series. And, this column has the largest number of the missing values. For, a more better insight let's do a value count on it to have the idea how many cabins per series are assigned: 
+
+![alt text](images/image%208.png)
+
+So, here if we see the percentage, so it turns out to be that **77 percent** of the entries were missing/NA. So, i replaced them with **'Unknown'** values in the column. 
+
+![alt text](images/image%2010.png)
+
+##### Emarked:
+
+Similarly, embarked column also has categorical data. And, for it there is a simple approach to replace it with **'unknown'**.
+
+![alt text](images/image%2011.png)
+
+Now, the data set is cleaned! 
 ---
 
 ## Dataset Used
