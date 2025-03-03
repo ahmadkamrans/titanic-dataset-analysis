@@ -34,11 +34,17 @@ As now we have a basic knowledge of what dataset is about, and on which columns 
 ![alt text](images/image%201.png)
 
 - Count of the missing values in the mentioned columns above:
-  Age has 177 missing entries
-  Cabin has 687 missing entries
-  Embarked has 2 missing entries
+  1. Age has 177 missing entries
+  2. Cabin has 687 missing entries
+  3. Embarked has 2 missing entries
 
 ![alt text](images/image%202.png)
+
+#### Identified Columns cleaning
+
+Now as till now we have identified the problematic columns lets proceed with cleaning of the one by one.
+
+##### AGE: 
 ---
 
 ## Dataset Used
