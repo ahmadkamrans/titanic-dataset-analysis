@@ -3,8 +3,24 @@
 ## Data Analysis with Pandas & Visualization with Matplotlib
 
 ### **Overview**
-This project analyzes the **Titanic dataset** using **Pandas** for data cleaning and **Matplotlib** for visualization. The goal is to explore survival trends and prepare the dataset for machine learning by performing feature engineering.
+- The **Titanic Dataset** contains the detailed information about the passenger's aboard on it, which sank during its first commute on **April 15, 1912**. After colliding with the **ice-berg**. 
+- The primary objective of analyzing this dataset is to predict the passenger survival on vairous features.
 
+#### **Columns**
+The dataset includes the following columns:
+
+- **PassengerId:** A unique identifier for each passenger
+- **Survived:** Indicated if the passenger suvived (1) or, not (0)
+- **Pclass:** Ticket Class for the passengers aboard (1st, 2nd, 3rd)
+- **Name:** Passenger's full name
+- **Sex:** Gende of the passenger
+- **Age:** Age of the passenger
+- **Sibsp:** Number of sibling, spouses
+- **Parch:** Number of Parents, children
+- **Ticket:** Ticket Number
+- **Fare:** Passenger fare
+- **Cabin:** Cabin number (some are mentioned in dataset in series like B1-B10)
+- **Embarked:** Port of embarkation (C for Cherbourg, Q for Queenstown, S for       Southhampon)
 ---
 
 ## Dataset Used
