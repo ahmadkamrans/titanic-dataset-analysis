@@ -216,6 +216,24 @@ male_survived_embarked
 - Queenstown (Q) had an even lower survival count (5).
 - This aligns with previous findings: males had a much lower survival rate regardless of embarkation point.
 
+4. **Fare Distribution Passenger Class wise on Embarkment:**
+
+- **Cherbourg (C) Passengers Paid Higher Fares on Average**
+
+The median fare for Cherbourg (C) is significantly higher than for Southampton (S) and Queenstown (Q).
+Several extreme outliers exceed 500, indicating wealthy first-class passengers.
+This aligns with previous findings that Cherbourg passengers had higher survival rates, likely due to a higher proportion of first-class travelers.
+
+- **Queenstown (Q) Passengers Paid the Lowest Fares**
+
+The median fare for Queenstown is the lowest, suggesting that most passengers from this port were third-class travelers.
+There are very few high-paying outliers, reinforcing that wealthier passengers were uncommon here.
+This supports previous insights where Queenstown passengers had lower survival rates, likely due to being mostly third-class.
+
+- **Southampton (S) Passengers Had a Wide Fare Range**
+
+Southampton had many low and moderate fare values but also some higher fares, suggesting a mix of passenger classes.
+There are many outliers, but the highest fare is below that of Cherbourg’s top outliers.
 
 
 ---
