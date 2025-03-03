@@ -218,6 +218,8 @@ male_survived_embarked
 
 4. **Fare Distribution Passenger Class wise on Embarkment:**
 
+![alt text](images/image%2025.png)
+
 - **Cherbourg (C) Passengers Paid Higher Fares on Average**
 
 The median fare for Cherbourg (C) is significantly higher than for Southampton (S) and Queenstown (Q).
