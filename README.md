@@ -100,7 +100,17 @@ Similarly, embarked column also has categorical data. And, for it there is a sim
 
 ![alt text](images/image%2011.png)
 
-Now, the data set is cleaned! 
+## Visualization
+
+As the dataset is cleaned. Let's proceed with cleaning of the dataset. Now, we will visualize it using **matplotlib.plt**:
+
+- **Gender Distribution:** 
+
+So, this is the distribution of all the genders we are seeign through the bar chart.
+
+1. **More Males than Females:**  The male count (**577**) is significantely higher than the female count (**314**). Showing that the large proportion of passengers were male. In future visualization's you will see how it will affect the survival rates.
+
+![alt text](images/image%2012.png)
 ---
 
 ## Dataset Used
