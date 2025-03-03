@@ -55,7 +55,11 @@ Now as till now we have identified the problematic columns lets proceed with cle
 
 - Before deciding anything let's plot a simple histogram to see what the age distribution looks like on raw data.
 
-![alt text](images/image%205.png) Here we can see that the our data is not either skewed to the left, or right. But close to symmetrical. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
+![alt text](images/image%205.png) 
+
+ Here we can see that the our data is not either skewed to the left, or right. But close to symmetrical. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
+ On raw data before cleaning, the most high distributed age is between late 20's to 30.
+
 ---
 
 ## Dataset Used
