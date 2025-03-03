@@ -191,9 +191,11 @@ female_survived_embarked
 
 ![alt text](images/image%2021.png)
 
-- Southampton (S) had the highest female survival count (~140).
-- Cherbourg (C) had a moderate survival count (~63).
-- Queenstown (Q) had a much lower survival count (~30).
+![alt text](images/image%2022.png)
+
+- Southampton (S) had the highest female survival count (140).
+- Cherbourg (C) had a moderate survival count (63).
+- Queenstown (Q) had a much lower survival count (30).
 - Very few females survived from "Unknown Port".
 - This suggests women from Southampton had better chances of survival.
 
@@ -207,9 +209,11 @@ male_survived_embarked
 
 ![alt text](images/image%2023.png)
 
-- Southampton (S) had the highest male survival count (~75).
-- Cherbourg (C) had a lower survival count (~30).
-- Queenstown (Q) had an even lower survival count (~5).
+![alt text](images/image%2024.png)
+
+- Southampton (S) had the highest male survival count (75).
+- Cherbourg (C) had a lower survival count (30).
+- Queenstown (Q) had an even lower survival count (5).
 - This aligns with previous findings: males had a much lower survival rate regardless of embarkation point.
 
 
