@@ -152,7 +152,7 @@ labels = ['Child', 'Teen', 'Young Adult', 'Adult', 'Senior']
 - **22** senior survived, howing that older passengers had the least chance of survival due to slower response time, or lack f prioritization.
 - **30** only thirty teens survived.
 
-Similary, these are the stats for the age group that not survvied:
+Similary, these are the stats for the age group that not survived:
 
 ![alt text](images/image%2018.png)
 
@@ -162,7 +162,11 @@ Similary, these are the stats for the age group that not survvied:
 - **30** teens did not survive, suggesting they were not prioritized like younger children.
 - **22** seniors perished, but this doesn’t mean they had a high survival rate.
 
-
+**2.6: Age Group Survival Percentage:**
+- Here you can see the young adults have higher survivor rate (**18-35 years**)
+- A significant 29.8% of the survivors were adults (**25-55 years old**). Middle age individuals were still able to survvie at a reasonable rate.
+- Despite the "women, and children first policy", only **11.7%** of the survivors were children. 
+- Teen (**13-17**) made up just 8.8% of the survivors. 
 ---
 
 ## Dataset Used
