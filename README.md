@@ -143,6 +143,14 @@ So, here in the dataset are the ages are in float format. But there is no charac
 bins = [0, 12, 18, 30, 50, 80]
 labels = ['Child', 'Teen', 'Young Adult', 'Adult', 'Senior']
 ```
+![alt text](images/image%2017.png)
+
+- **148** survivors were in the "Young Adult (**18-25**)" group, making it the largest surviving age group.
+- This could be due there better physical fitness, ability to reach life boats.
+- **102** were the survivors from the "Adult" group, indicating the middle-aged passengers also had a fair chance of survival. 
+- **40** children survived despite the "women, cjildren first policy" but might be possible that children would have separated from there families during rescue.
+- **22** senior survived, howing that older passengers had the least chance of survival due to slower response time, or lack f prioritization.
+- **30** only thirty teens survived.
 ---
 
 ## Dataset Used
