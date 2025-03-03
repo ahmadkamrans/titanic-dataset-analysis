@@ -24,10 +24,13 @@ The dataset includes the following columns:
 
 As now we have a basic knowledge of what dataset is about, and on which columns the whole dataset is comprised of. Let's start cleaning the dataset: 
 
-- Our dataset is comprised of 11 columns with total 891 entries for each column. 
+- Our dataset is comprised of 11 columns with total 891 entries for each column.
 
 ![alt text](images/image.png)
 
+- Now let's see the columns where the entries are not 891. But instead they have missing/null values in those columns. 
+
+![alt text](images/image%201.png)
 
 ---
 
