@@ -26,7 +26,9 @@ As now we have a basic knowledge of what dataset is about, and on which columns 
 
 - Our dataset is comprised of 11 columns with total 891 entries for each column. 
 
-![alt text](image.png)
+![alt text](images/image.png)
+
+
 ---
 
 ## Dataset Used
