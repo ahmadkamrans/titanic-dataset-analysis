@@ -57,8 +57,32 @@ Now as till now we have identified the problematic columns lets proceed with cle
 
 ![alt text](images/image%205.png) 
 
- Here we can see that the our data is not either skewed to the left, or right. But close to symmetrical. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
- On raw data before cleaning, the most high distributed age is between late 20's to 30.
+ Here we can see that the our data is not either **skewed** to the left, or right. But close to **symmetrical**. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
+ On **raw data** before cleaning, the most high age count in result of the distribution is between **late 20's to 30**.
+
+-  Now there are two approaches to go with:
+   1. If the skewness value is:
+      - greater than 1
+      - less than -1
+    then simply replace the missing/null values with the **mean**
+   2. If skewness value is:
+      - close to zero 
+    then simply replace the missing/null values with **median**
+
+- In our case, we decided to go with the mean. As, out skewness value is: 
+
+![alt text](images/image%206.png)  
+
+ Thi case the value was close to zero, meaning symmetrical. So, we replaced the missing values with mean resulting in this histogram: 
+
+![alt text](images/image%207.png)
+
+##### INsights of the AGE: 
+1. **Peak at 30 Years:** 
+    - We can see the highest bar is around the **30 years**. Which aligns with the **mean (29.7)** used for missing data imputations.
+    - THe large spike here is showing a lage number of missing values were replaced with the mean. 
+2. **Distribution Shape:**
+    - The distribution shape is suggesting that as the a large number of passengers were between (**20-40**) years. With a smaller count for (**0-10**) years, and (**60+**) years. 
 
 ---
 
