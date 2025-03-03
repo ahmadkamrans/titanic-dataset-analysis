@@ -122,9 +122,19 @@ Now through bar chart the survived, and dead analysis based on males, and female
 
 **2.1: Females Had a Higher Survival Rate:** A large number of females survived as there is significant **large pink bar**. A small blue bar as compared to males. Only a small number of males survived. This confirms the females, and children evacuation first policy.
 
-**2.2: Males Has a Lower Survival Rate:** A small number of males survived as the pink bar is quite small compared to the females ones. Depicting a larger blue bar which shows dead case. 
+**2.2: Males Has a Lower Survival Rate:** A small number of males survived as the **pink bar** is quite **small** compared to the females ones. Depicting a larger blue bar which shows dead case.
 
+**2.3 Males vs Female Survival Ratio:**
+- **79.9%** of survivors were female, while only **20.3%** were male. 
+- This reinfornces the strong "women and children first" policy, as women had a higher chance of survival.
 
+![alt text](images/image%2015.png)
+
+**2.4 Males vs Female Not Survived Ratio:**
+- **79.9%** of the non-survivors were male, while **24.1%** were female.
+- The majority of males did not survive. 
+
+![alt text](images/image%2016.png)
 
 ---
 
