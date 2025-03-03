@@ -167,6 +167,53 @@ Similary, these are the stats for the age group that not survived:
 - A significant 29.8% of the survivors were adults (**25-55 years old**). Middle age individuals were still able to survvie at a reasonable rate.
 - Despite the "women, and children first policy", only **11.7%** of the survivors were children. 
 - Teen (**13-17**) made up just 8.8% of the survivors. 
+
+![alt text](images/image%2019.png)
+
+3. **Gender-Wise Embarkment:**
+
+``` python
+gender_wise_port_pickup = df.groupby('Sex')['Embarked'].value_counts()
+
+gender_wise_port_pickup
+```
+
+First, I extracted that how many males, and females were pickeup from all of three ports, and the unkown port.
+
+![alt text](images/image%2020.png)
+
+After that I extracted for individual gender how many females, survived that were picked up from different embarkments:
+
+```python
+female_survived_embarked= female_survived.groupby('Embarked').size()
+female_survived_embarked
+```
+
+![alt text](images/image%2021.png)
+
+- Southampton (S) had the highest female survival count (~140).
+- Cherbourg (C) had a moderate survival count (~63).
+- Queenstown (Q) had a much lower survival count (~30).
+- Very few females survived from "Unknown Port".
+- This suggests women from Southampton had better chances of survival.
+
+
+Now, I will extract the male embarkment through different ports
+
+```python
+male_survived_embarked = male_survived.groupby('Embarked').size()
+male_survived_embarked
+```
+
+![alt text](images/image%2023.png)
+
+- Southampton (S) had the highest male survival count (~75).
+- Cherbourg (C) had a lower survival count (~30).
+- Queenstown (Q) had an even lower survival count (~5).
+- This aligns with previous findings: males had a much lower survival rate regardless of embarkation point.
+
+
+
 ---
 
 ## Dataset Used
