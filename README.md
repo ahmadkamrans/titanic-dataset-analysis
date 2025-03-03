@@ -120,8 +120,9 @@ Now through bar chart the survived, and dead analysis based on males, and female
 
 ![alt text](images/image%2014.png)
 
-   **2.1: Females Had a Higher Survival Rate:** A large number of females survived as there is significant **large pink bar**. A small blue bar as compared to males. Only a small number of males survived. This confirms the females, and children evacuation first policy.
-   **2.2: Males Has a Lower Survival Rate:** A small number of males survived as the pink bar is quite small compared to the females ones. Depicting a larger blue bar which shows dead case. 
+**2.1: Females Had a Higher Survival Rate:** A large number of females survived as there is significant **large pink bar**. A small blue bar as compared to males. Only a small number of males survived. This confirms the females, and children evacuation first policy.
+
+**2.2: Males Has a Lower Survival Rate:** A small number of males survived as the pink bar is quite small compared to the females ones. Depicting a larger blue bar which shows dead case. 
 
 
 
