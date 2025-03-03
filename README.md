@@ -238,6 +238,39 @@ Southampton had many low and moderate fare values but also some higher fares, su
 There are many outliers, but the highest fare is below that of Cherbourg’s top outliers.
 
 
+5. **Age Group to Pclass Distribution**
+
+- First we will see the age group in all Pclass
+- After that we will see there survival rate of Age Groups accordingly the Pclass
+
+```python
+age_Pclass_distribution = df.groupby(['Pclass', 'AgeGroup']).size().unstack()
+age_Pclass_distribution
+```
+
+![alt text](images/image%2026.png)
+
+![alt text](images/image%2027.png)
+
+- Most Young Adults Were in Third Class
+294 young adults were in third class, significantly higher than 75 in first class and 78 in second class.
+This suggests that young adults in lower socio-economic backgrounds were more common among third-class passengers.
+
+- Children Were Predominantly in Third Class
+48 children were in third class, compared to only 4 in first class and 17 in second class.
+This supports the idea that families with children in third class were at a higher risk, possibly due to lower survival chances and worse access to lifeboats.
+
+- Seniors Were More Frequent in First and Second Class
+39 seniors were in first class, compared to 15 in second class and only 10 in third class.
+This indicates that older passengers were more likely to afford higher-class tickets, possibly improving their chances of survival.
+
+- First-Class Had More Adults and Seniors
+Adults (86) and seniors (39) were a significant portion of first-class passengers.
+Wealthier middle-aged and older individuals were more likely to afford first-class, possibly impacting survival rates.
+
+- Teenagers Were Evenly Spread Across All Classes
+Teen counts are almost equal across all classes (12 in first class, 12 in second, 46 in third).
+This suggests that teenagers were not class-specific, though their survival rates likely depended on class access to safety measures.
 ---
 
 ## Dataset Used
