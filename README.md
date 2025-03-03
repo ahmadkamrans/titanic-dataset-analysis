@@ -271,6 +271,12 @@ Wealthier middle-aged and older individuals were more likely to afford first-cla
 - Teenagers Were Evenly Spread Across All Classes
 Teen counts are almost equal across all classes (12 in first class, 12 in second, 46 in third).
 This suggests that teenagers were not class-specific, though their survival rates likely depended on class access to safety measures.
+
+Similarly, these are the percentages of age groups survived accordingly the ticket class:
+
+![alt text](images/image%2028.png)
+![alt text](images/image%2029.png)
+![alt text](images/image%2030.png)
 ---
 
 ## Dataset Used
