@@ -20,6 +20,25 @@ The dataset includes the following columns:
 - **Cabin:** Cabin number (some are mentioned in dataset in series like B1-B10)
 - **Embarked:** Port of embarkation (C for Cherbourg, Q for Queenstown, S for       Southhampon)
 
+#### **For running project**
+
+- Just run these lines in sequence
+1. **Installations:**
+```python
+!pip install pandas
+!pip install numpy
+!pip install tools
+```
+2. **Imports**
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+```
+
+After this just start cleaning, and visualizing your dataset!
+
 ## Cleaning of Dataset
 
 As now we have a basic knowledge of what dataset is about, and on which columns the whole dataset is comprised of. Let's start cleaning the dataset: 
