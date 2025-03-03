@@ -47,15 +47,15 @@ Now as till now we have identified the problematic columns lets proceed with cle
 ##### AGE: 
 - As the age column has numerical data. A better insight into it is by using the describe which will give us the mean, median, max, quartiles for the box plot. 
 
-[!alt text](images/image%203.png)
+![alt text](images/image%203.png)
 
 - The median age is 28 years
 
-[!alt text](images/image%204.png)
+![alt text](images/image%204.png)
 
 - Before deciding anything let's plot a simple histogram to see what the age distribution looks like on raw data.
 
-[! alt text](images/image%205.png) Here we can see that the our data is not either skewed to the left, or right. But close to symmetrical. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
+![alt text](images/image%205.png) Here we can see that the our data is not either skewed to the left, or right. But close to symmetrical. Making a good balanced mountain hill. If you try to make it by drawing the a one line through all the bars on there top. 
 ---
 
 ## Dataset Used
