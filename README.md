@@ -111,6 +111,20 @@ So, this is the distribution of all the genders we are seeign through the bar ch
 1. **More Males than Females:**  The male count (**577**) is significantely higher than the female count (**314**). Showing that the large proportion of passengers were male. In future visualization's you will see how it will affect the survival rates.
 
 ![alt text](images/image%2012.png)
+
+2. **Gender Survvial:** The titanic evacuation followed a "women and childern first" policy. Since females were fewer in number, and being evcuated first there survival rate is higher as compared to males. 
+
+![alt text](images/image%2013.png)
+
+Now through bar chart the survived, and dead analysis based on males, and females:
+
+![alt text](images/image%2014.png)
+
+   **2.1: Females Had a Higher Survival Rate:** A large number of females survived as there is significant **large pink bar**. A small blue bar as compared to males. Only a small number of males survived. This confirms the females, and children evacuation first policy.
+   **2.2: Males Has a Lower Survival Rate:** A small number of males survived as the pink bar is quite small compared to the females ones. Depicting a larger blue bar which shows dead case. 
+
+
+
 ---
 
 ## Dataset Used
