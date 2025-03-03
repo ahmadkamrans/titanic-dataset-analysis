@@ -28,10 +28,17 @@ As now we have a basic knowledge of what dataset is about, and on which columns 
 
 ![alt text](images/image.png)
 
-- Now let's see the columns where the entries are not 891. But instead they have missing/null values in those columns. 
+- Now let's see the columns where the entries are not 891. But instead they have missing/null values in those columns. The findings were: 
+ - Age, Cabin, and Embarked entries were missing
 
 ![alt text](images/image%201.png)
 
+- Count of the missing values in the mentioned columns above:
+  Age has 177 missing entries
+  Cabin has 687 missing entries
+  Embarked has 2 missing entries
+
+![alt text](images/image%202.png)
 ---
 
 ## Dataset Used
