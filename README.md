@@ -1,10 +1,8 @@
 # Titanic Dataset Analysis
 
-## Data Analysis with Pandas & Visualization with Matplotlib
-
-### **Overview**
+## **Overview**
 - The **Titanic Dataset** contains the detailed information about the passenger's aboard on it, which sank during its first commute on **April 15, 1912**. After colliding with the **ice-berg**. 
-- The primary objective of analyzing this dataset is to predict the passenger survival on vairous features.
+- The primary objective of analyzing this dataset is to extract some useful insights for the passenger survival on vairous features.
 
 #### **Columns**
 The dataset includes the following columns:
@@ -21,6 +19,14 @@ The dataset includes the following columns:
 - **Fare:** Passenger fare
 - **Cabin:** Cabin number (some are mentioned in dataset in series like B1-B10)
 - **Embarked:** Port of embarkation (C for Cherbourg, Q for Queenstown, S for       Southhampon)
+
+## Cleaning of Dataset
+
+As now we have a basic knowledge of what dataset is about, and on which columns the whole dataset is comprised of. Let's start cleaning the dataset: 
+
+- Our dataset is comprised of 11 columns with total 891 entries for each column. 
+
+![alt text](image.png)
 ---
 
 ## Dataset Used
