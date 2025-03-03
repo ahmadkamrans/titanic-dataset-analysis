@@ -136,6 +136,13 @@ Now through bar chart the survived, and dead analysis based on males, and female
 
 ![alt text](images/image%2016.png)
 
+**2.5 Categorizing the Age:**
+So, here in the dataset are the ages are in float format. But there is no characterization of the child, adult e.t.c. So, for a better insight of the age I binned it as: 
+
+```python
+bins = [0, 12, 18, 30, 50, 80]
+labels = ['Child', 'Teen', 'Young Adult', 'Adult', 'Senior']
+```
 ---
 
 ## Dataset Used
